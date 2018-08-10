@@ -7,6 +7,6 @@ class Dogs(color,size,cute)
 end
 
 
-fido 
-snoopy
-lassie 
+fido= Dogs.new("brown", "small", "very cute")
+snoopy= Dogs.new("white", "small", "yes")
+lassie= Dogs.new("brown", "medium", "yes")
